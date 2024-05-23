@@ -120,6 +120,7 @@ Tecnologias utilizadas no projeto:
 - [![React][react]][react-url]
 - [![Vite][vite]][vite-url]
 - [![TypeScript][typescript]][typescript-url]
+- [![TailwindCSS][tailwind]][tailwind-url]
 - [![React Hook Form][hook-form]][hook-form-url]
 - [![React Query][react-query]][react-query-url]
 - [![Prisma][prisma]][prisma-url]
@@ -142,3 +143,5 @@ Tecnologias utilizadas no projeto:
 [nestjs-url]: https://nestjs.com
 [react-query]: https://img.shields.io/badge/React%20Query-20232A?style=for-the-badge&logo=reactquery&logoColor=fff
 [react-query-url]: https://tanstack.com/query/latest/docs/framework/react/overview
+[tailwind]: https://img.shields.io/badge/TailwindCSS-20232A?style=for-the-badge&logo=tailwindcss&logoColor=fff
+[tailwind-url]: https://tailwindcss.com
